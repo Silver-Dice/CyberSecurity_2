@@ -1,0 +1,4 @@
+Seus arquivos foram criptografados!
+Envie 1 bitcoin para o endereço x com o comprovante!
+Depois disso, enviaremos a chave a você para recuperar seus dados!
+
